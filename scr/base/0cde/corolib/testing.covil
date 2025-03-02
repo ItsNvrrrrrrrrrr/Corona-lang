@@ -1,0 +1,8 @@
+public module get{
+    public function command(){
+        outp.println("hello guys!")
+    }
+    public function noncommand(){
+        outp.println("not hello guys!")
+    }
+}
