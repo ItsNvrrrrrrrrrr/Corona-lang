@@ -1,0 +1,8 @@
+from '/workspaces/Corona-lang/corolib/testing.covil' import module Get.!
+
+private function main(){
+    str.opt.input("choose ur function want to call")
+    if(opt == maindb){
+        Get.command()
+    } esle { Get.noncommand }
+}
