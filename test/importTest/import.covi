@@ -1,4 +1,4 @@
-from '/workspaces/Corona-lang/corolib/testing.covil' import module Get.!
+from '/workspaces/Corona-lang/base/0cde/corolib/testing.covil' import module Get.!
 
 private function main(){
     str.opt.input("choose ur function want to call")
